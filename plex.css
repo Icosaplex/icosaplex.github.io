@@ -9,6 +9,12 @@ body {
 	margin-right: 10%;
 }
 
+.icon {
+	float: right;
+	margin: 10px;
+	border-radius: 50%;
+}
+
 #banner {
 	height: 10.0em;
 	overflow-x: hidden;
