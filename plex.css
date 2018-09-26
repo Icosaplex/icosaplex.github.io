@@ -7,12 +7,17 @@ body {
 	border: solid 2px #000;
 	margin-left: 10%;
 	margin-right: 10%;
+	text-align: center;
 }
 
 .icon {
 	float: right;
 	margin: 10px;
 	border-radius: 50%;
+}
+
+.block-image {
+	margin: 10px;
 }
 
 #banner {
